@@ -1,4 +1,4 @@
-module github.com/cpuguy83/go-md2man/v2
+module gopkg.intern.drachenfels.de/drachenfels/go-md2man
 
 go 1.11
 
