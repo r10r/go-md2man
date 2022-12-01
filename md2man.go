@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"gopkg.intern.drachenfels.de/drachenfels/go-md2man"
+	"gopkg.intern.drachenfels.de/drachenfels/go-md2man/md2man"
 )
 
 var (
